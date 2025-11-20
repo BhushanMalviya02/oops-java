@@ -1,4 +1,4 @@
-"Write a program that connects to a database using JDBC display all records in a table
+
  import java.sql.*;
   
  public class DisplayRecords {
@@ -18,4 +18,4 @@
   System.out.println(e);
   }
   }
- }"
+ }
